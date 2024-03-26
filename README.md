@@ -56,8 +56,8 @@ The Cat VS Dog Classifier is a Streamlit web application that allows users to up
 
 ## Screenshots
 
-![Cat Prediction](screenshots/cat_prediction.png)
-![Dog Prediction](screenshots/dog_prediction.png)
+![Cat Prediction](screenshots/screenshot2.png)
+![Dog Prediction](screenshots/screenshot1.png)
 
 <!-- Add more screenshots as needed -->
 
